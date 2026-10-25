@@ -1,6 +1,6 @@
 # SloWey Studio
 
-This repository contains the source code for my portfolio website hosted at [Slowey Studio](https://www.slowey.studio). The website showcases my projects and skills in web development and design.
+This repository contains the source code for my portfolio website hosted at [Slowey Studio](https://sloweyyy.github.io/design-portfolio/). The website showcases my projects and skills in web development and design.
 
 ## Technologies Used
 
